@@ -1,0 +1,42 @@
+.container-fluid img{
+	position: absolute;
+    left:600px;
+}
+.fundo img{
+	position: static;
+	top: 0px;
+    height: 452px;
+    width: 1366px;
+}
+.rodape{
+	background-color: rgb(222, 36, 37);
+	height: 75px;
+	width: 1366px;
+	position: absolute;
+	top: 582px;
+
+
+}
+#container{
+	position: absolute;
+	height: 400px;
+}
+
+#container h1{
+	position: absolute;
+	left:  250px;
+}
+#container h2{
+	position: absolute;
+	left:  100px;
+	top: 100px;
+}
+#container h3{
+	position: absolute;
+	left:440px;
+	top: 100px;
+}
+#p1{
+	position: absolute;
+	top: 200px;
+}

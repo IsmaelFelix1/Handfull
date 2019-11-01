@@ -1,0 +1,15 @@
+#container h1{
+	position: absolute;
+	top: 20px;
+}
+
+#container ul li {
+	font-family: comic sans ms, serif;
+	font-size: 19px;
+	color: yellow;
+	position: relative;
+	top: 50px;
+	left: 200px;
+	padding-top: 25px;
+	list-style-type: none;
+}

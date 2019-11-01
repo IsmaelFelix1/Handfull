@@ -1,0 +1,108 @@
+/** --- Cabeçalho -- **/
+.container-fluid{
+	height: 130px;
+	background-color: rgb(222, 36, 37);
+}
+.container-fluid img{
+	position: absolute;
+	left: 600px;
+	top: 15px;
+
+}
+.container-fluid ul {
+	position: absolute;
+	top: 50px;
+	left: 550px;
+}
+.container-fluid li{
+	padding-right: 50px; 
+}
+.container-fluid a{
+	color: rgb(0,0,0);
+	font-family: comic sans ms, serif;
+	font-size: 17px;
+	text-decoration: none;
+}
+
+/** --- Login -- **/
+
+.container{
+	height: 400px;
+	background-color: rgb(222, 36, 37);
+	position: absolute;
+	top: 160px;
+	left: 350px;
+	border-style: solid;
+	border-width: thick;
+	border-color: yellow;
+    
+}
+#container h1{
+	font-family: comic sans ms, serif;
+	color: yellow;
+	position: absolute;
+	left: 270px;
+	top: 50px;
+}
+#boxusuario{
+	position: absolute;
+	top: 120px;
+	left: 160px;
+}
+#password{
+	position: absolute;
+    top: 190px;
+    left: 306px;
+}
+#boxsenha{
+	position: absolute;
+	top: 190px;
+	left: 160px;
+}
+
+#log{
+	position: absolute;
+	top: 320px;
+	left: 295px;
+}
+#esqsenha{
+	position: absolute;
+	left: 260px;
+	top: 230px;
+	color: yellow;
+	font-family: comic sans ms, serif;
+}
+#button{
+	position: absolute;
+	left: 269px;
+	top: 270px;
+}
+#button a {
+	color: rgb(0,0,0);
+	text-decoration: none;
+}
+/* --- Rodapé ---*/
+.rodape{
+	background-color: rgb(222, 36, 37);
+	height: 75px;
+	width: 100%;
+	position: absolute;
+	top: 582px;
+
+
+}
+/*--Imagem De fundo---*/
+.fundo img{
+	position: static;
+	top: 0px;
+    height: 452px;
+    width: 1366px;
+}
+
+
+
+
+
+
+
+

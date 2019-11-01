@@ -1,0 +1,70 @@
+.container{
+	height: 400px;
+	background-color: rgb(222, 36, 37);
+	position: absolute;
+	left: 330px;
+}
+.container h1{
+    position: absolute;
+    left: 260px;
+    top: 10px;
+    font-family: comic sans ms, serif;
+	color: yellow;
+}
+#nomebox{
+	position: absolute;
+	top: 90px;
+	left: 180px;
+}
+#telefonebox{
+	position: absolute;
+	top: 150px;
+	left: 180px;
+}
+#emailbox{
+	position: absolute;
+	top: 210px;
+	left: 180px;
+}
+#passwordbox{
+	position: absolute;
+	top: 270px;
+	left: 180px;
+}
+#cadastrarbutton{
+	position: absolute;
+	top: 330px;
+	left: 260px;
+	font-family: comic sans ms, serif;
+}
+
+.rodape{
+	background-color: rgb(222, 36, 37);
+	height: 75px;
+	width: 1366px;
+	position: absolute;
+	top: 582px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
